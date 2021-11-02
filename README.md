@@ -5,3 +5,7 @@ As atividades foram executadas no ANACONDA e no **Google Colab**, majoritariamen
 
 # Files
 [Semana 3 - video 5. Biblioteca NumPy.ipynb](/Semana_3_video_5_Biblioteca_NumPy.ipynb)
+
+# Fonte para edição
+https://stackedit.io/app#
+https://medium.com/luizaraujo-dev/publicando-projetos-do-google-colab-no-github-115908578419
