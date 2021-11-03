@@ -4,14 +4,17 @@ As atividades foram executadas no ANACONDA e no **Google Colab**, majoritariamen
 
 
 # Files
-[Semana 3 - video 5. Biblioteca NumPy.ipynb](/Semana_3_video_5_Biblioteca_NumPy.ipynb)
+[Semana 3 - video 5. Biblioteca NumPy.ipynb](/Semana_3_video_5_Biblioteca_NumPy.ipynb) Introdução à Biblioteca Numpy
 
-[Semana_2_video_6_PANDAS.ipynb](https://github.com/GiselleOAlmeida/python-univesp-ciencia-de-dados/blob/main/Semana_2_video_6_PANDAS.ipynb "Semana_2_video_6_PANDAS.ipynb")
+[Semana_2_video_6_PANDAS.ipynb](https://github.com/GiselleOAlmeida/python-univesp-ciencia-de-dados/blob/main/Semana_2_video_6_PANDAS.ipynb "Semana_2_video_6_PANDAS.ipynb") Introdução à Biblioteca Pandas
 
-[Semana02_Atividade_Proposta.ipynb](/Semana02_Atividade_Proposta.ipynb)
+[Semana02_Atividade_Proposta.ipynb](/Semana02_Atividade_Proposta.ipynb) Atividade de prática em Numpy e Pandas
 
-[Testes_com_Python.ipynb](/Testes_com_Python.ipynb)
+[/Semana_3_vídeo_1.ipynb](/Semana_3_vídeo_1.ipynb) Introdução às Bibliotecas Scikit-Learn, MatPlotLib e Seaborn
+
+[Testes_com_Python.ipynb](/Testes_com_Python.ipynb) Playground antigo para testes em Python
 
 # Fonte para edição
 https://stackedit.io/app#
+
 https://medium.com/luizaraujo-dev/publicando-projetos-do-google-colab-no-github-115908578419
