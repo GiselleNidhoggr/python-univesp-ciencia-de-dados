@@ -10,7 +10,9 @@ As atividades foram executadas no ANACONDA e no **Google Colab**, majoritariamen
 
 [Semana02_Atividade_Proposta.ipynb](/Semana02_Atividade_Proposta.ipynb) Atividade de prática em Numpy e Pandas
 
-[/Semana_3_vídeo_1.ipynb](/Semana_3_vídeo_1.ipynb) Introdução às Bibliotecas Scikit-Learn, MatPlotLib e Seaborn
+[Semana_3_vídeo_1.ipynb](/Semana_3_vídeo_1.ipynb) Introdução às Bibliotecas Scikit-Learn, MatPlotLib e Seaborn
+
+[Semana_03_video_2_Web_Scraping.ipynb](/Semana_03_video_2_Web_Scraping.ipynb) Introdução à Web Scraping com a biblioteca BeautifulSoup
 
 [Testes_com_Python.ipynb](/Testes_com_Python.ipynb) Playground antigo para testes em Python
 
