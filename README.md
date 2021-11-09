@@ -14,6 +14,8 @@ As atividades foram executadas no ANACONDA e no **Google Colab**, majoritariamen
 
 [Semana_03_video_2_Web_Scraping.ipynb](/Semana_03_video_2_Web_Scraping.ipynb) Introdução à Web Scraping com a biblioteca BeautifulSoup
 
+[Semana_3_Video_3_arquivos.ipynb](/Semana_3_Video_3_arquivos.ipynb) importando arquivos de dados de diversas fontes (arquivo,API,URL etc)
+
 [Testes_com_Python.ipynb](/Testes_com_Python.ipynb) Playground antigo para testes em Python
 
 # Fonte para edição
