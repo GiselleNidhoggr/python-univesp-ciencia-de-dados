@@ -22,3 +22,5 @@ As atividades foram executadas no ANACONDA e no **Google Colab**, majoritariamen
 https://stackedit.io/app#
 
 https://medium.com/luizaraujo-dev/publicando-projetos-do-google-colab-no-github-115908578419
+
+https://ichi.pro/pt/folha-de-referencias-para-google-colab-109423812460691 
