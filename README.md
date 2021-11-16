@@ -16,6 +16,8 @@ As atividades foram executadas no ANACONDA e no **Google Colab**, majoritariamen
 
 [Semana_3_Video_3_arquivos.ipynb](/Semana_3_Video_3_arquivos.ipynb) importando arquivos de dados de diversas fontes (arquivo,API,URL etc)
 
+[Semana_3_Exercícios_de_Apoio.ipynb](/Semana_3_Exercícios_de_Apoio.ipynb) Exercícios para aprofudar conhecimento
+
 [Testes_com_Python.ipynb](/Testes_com_Python.ipynb) Playground antigo para testes em Python
 
 # Fonte para edição
