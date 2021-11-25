@@ -23,6 +23,8 @@ As atividades foram executadas no ANACONDA e no **Google Colab**, majoritariamen
 [Semana_4_Mineração_de_Dados,_Preparação_e_Pré_Processamento_de_Dados.ipynb](/Semana_4_Mineração_de_Dados,_Preparação_e_Pré_Processamento_de_Dados.ipynb)
 Created using Colaboratory - Include Trading analysis and data processing 
 
+SEMANA 04 - INSERIR ATIVIDADE PROPOSTA
+
 [Testes_com_Python.ipynb](/Testes_com_Python.ipynb) Playground antigo para testes em Python
 
 # Fonte para edição
