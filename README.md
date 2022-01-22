@@ -27,6 +27,8 @@ SEMANA 04 - INSERIR ATIVIDADE PROPOSTA
 
 [Testes_com_Python.ipynb](/Testes_com_Python.ipynb) Playground antigo para testes em Python
 
+[Redes Neurais](python-univesp-ciencia-de-dados/NeuralNetworks.ipynb) tem como base um curso da NVIDIA
+
 # Fonte para edição
 https://stackedit.io/app#
 
